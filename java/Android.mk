@@ -34,7 +34,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := android-common inputmethod-common android-support
 LOCAL_AAPT_FLAGS := -0 .dict
 
 # Include all the resources regardless of system supported locales
-LOCAL_AAPT_INCLUDE_ALL_RESOURCES := true
+#LOCAL_AAPT_INCLUDE_ALL_RESOURCES := true
 
 LOCAL_SDK_VERSION := current
 
