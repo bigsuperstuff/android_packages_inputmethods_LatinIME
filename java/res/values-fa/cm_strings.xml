@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="prefs_import_external_dictionary">Inportatu hiztegi fitxategia</string>
-  <string name="import_external_dictionary_multiple_files_title">Hautatu hiztegi fitxategi bat inportatzeko</string>
-  <string name="import_external_dictionary_confirm_install_title">Berretsi inportazioa</string>
-  <string name="import_external_dictionary_confirm_install_message">Ziur <xliff:g id="locale_name">%s</xliff:g> hizkuntzarako hiztegia inportatu nahi duzula?</string>
+  <string name="prefs_import_external_dictionary">وارد کردن فایل واژه‌نامه</string>
+  <string name="import_external_dictionary_multiple_files_title">فایل واژه‌نامه‌ای را برای وارد کردن انتخاب کنید</string>
+  <string name="import_external_dictionary_confirm_install_title">تایید وارد کردن</string>
+  <string name="import_external_dictionary_confirm_install_message">آیا از وارد کردن این واژه‌نامه برای زبان <xliff:g id="locale_name">%s</xliff:g> اطمینان دارید؟</string>
 </resources>
